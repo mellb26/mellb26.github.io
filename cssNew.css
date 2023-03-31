@@ -1,0 +1,64 @@
+*{
+margin: 1;
+padding: 1;
+font-family: "Courier New", Courier, monospace;
+color: palevioletred;
+}
+
+body {
+    background-image: url(6GXmx5.webp);
+    background-size: 300px 300px;
+
+}
+h1 {
+    text-shadow: 2px 2px 4px  palevioletred;
+    color: white;
+    text-align: center;
+   
+} 
+
+h2 {
+    text-shadow: 2px 2px 4px  palevioletred;
+    color: white;
+text-align: center;
+
+}
+#p1{
+
+    outline: none;
+    border-color: gold;
+    box-shadow: 0 0 10px gold;
+}
+
+#img1 {
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+    border-color: black;
+    box-shadow: 8px 8px 5px palevioletred;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  }
+  #img2 {
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+    border-color: black;
+    box-shadow: 8px 8px 5px palevioletred;
+  }
+  
+#unordered-list {
+    list-style-type: circle;
+    outline: none;
+    border-color: purple;
+    box-shadow: 0 0 10px purple;
+
+}
+#ordered-list {
+    outline: none;
+    border-color: blue;
+    box-shadow: 0 0 10px blue;
+
+}
